@@ -1,5 +1,11 @@
 # helm-charts
 
+## 3.0.1
+
+### Patch Changes
+
+- 3786bbe: chore: update appVersion to 2.28.0
+
 ## 3.0.0
 
 ### Major Changes
